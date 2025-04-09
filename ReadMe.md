@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy un programador web especializado en Python y JavaScript. Me apasiona desarrollar soluciones eficientes y modernas, con experiencia en backend (Django, Flask, Node.js) y frontend (React, Vanilla JS). Siempre busco aprender y mejorar mis habilidades para crear proyectos de alto impacto
+Soy un programador web especializado en Python y JavaScript. Me apasiona desarrollar soluciones eficientes y modernas, con experiencia en backend (Django, Flask, Node.js). Siempre busco aprender y mejorar mis habilidades para crear proyectos de alto impacto
 
 
 # 💻 Tech Stack:
